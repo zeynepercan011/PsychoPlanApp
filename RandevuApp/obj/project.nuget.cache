@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q1uij+Q26A4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Desktop\\RandevuApp\\RandevuApp\\RandevuApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
